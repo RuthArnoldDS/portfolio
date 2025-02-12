@@ -3,8 +3,11 @@ I am an experienced IT professional with over 30 years experience in the industr
 
 ## Education
 10 O Levels
+
 4 A Levels
+
 BSc. Mathematics (University of Warwick)
+
 ![Histogram](assets/histogram-example-2.png)
 
 ## Work Experience
